@@ -1,3 +1,5 @@
+I forked the original and proceeded to delete everything that is not the pre-compiled css.
+
 # typeahead.js-bootstrap3.less
 
 [![Bower version](https://badge.fury.io/bo/typeahead.js-bootstrap3.less.svg)](http://badge.fury.io/bo/typeahead.js-bootstrap3.less)
